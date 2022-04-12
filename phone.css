@@ -25,8 +25,8 @@
 /* Services section  */
 #services{
     flex-direction: column;
-    margin-left: 93px;
-    width: 100%;
+   
+    width: 72%;
 }
 #services img{
 width:80%;
