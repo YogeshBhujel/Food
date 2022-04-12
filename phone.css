@@ -25,14 +25,17 @@
 /* Services section  */
 #services{
     flex-direction: column;
-    margin-left: 90px;
-    width: 100vw;
+    margin-left: 93px;
+    width: 100%;
 }
-
+#services img{
+width:80%;
+}
 #services .box { 
     padding: 14px;
     margin: 2px 0px; 
     margin-bottom: 20px;
+    width:28%;
 }
 
 /* Clients section */
@@ -60,4 +63,8 @@
 .btn{
     font-size: 13px;
     padding: 4px 8px;
+}
+.h-secondary {
+    
+    width: 74%;
 }
